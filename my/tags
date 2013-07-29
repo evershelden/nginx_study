@@ -1,0 +1,855 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+ACLOCAL	Makefile	/^ACLOCAL = ${SHELL} \/home\/child\/downloads\/Yunio\/my_nginx\/my\/missing --run aclocal-1.11$/;"	m
+ACLOCAL	src/Makefile	/^ACLOCAL = ${SHELL} \/home\/child\/downloads\/Yunio\/my_nginx\/my\/missing --run aclocal-1.11$/;"	m
+ACLOCAL_M4	Makefile	/^ACLOCAL_M4 = $(top_srcdir)\/aclocal.m4$/;"	m
+ACLOCAL_M4	src/Makefile	/^ACLOCAL_M4 = $(top_srcdir)\/aclocal.m4$/;"	m
+AMTAR	Makefile	/^AMTAR = $${TAR-tar}$/;"	m
+AMTAR	src/Makefile	/^AMTAR = $${TAR-tar}$/;"	m
+AM_CFLAGS	src/Makefile	/^AM_CFLAGS = -Werror$/;"	m
+AM_DEFAULT_VERBOSITY	Makefile	/^AM_DEFAULT_VERBOSITY = 0$/;"	m
+AM_DEFAULT_VERBOSITY	src/Makefile	/^AM_DEFAULT_VERBOSITY = 0$/;"	m
+AM_RECURSIVE_TARGETS	Makefile	/^AM_RECURSIVE_TARGETS = $(RECURSIVE_TARGETS:-recursive=) \\$/;"	m
+AM_V_CC	src/Makefile	/^AM_V_CC = $(am__v_CC_$(V))$/;"	m
+AM_V_CCLD	src/Makefile	/^AM_V_CCLD = $(am__v_CCLD_$(V))$/;"	m
+AM_V_GEN	Makefile	/^AM_V_GEN = $(am__v_GEN_$(V))$/;"	m
+AM_V_GEN	src/Makefile	/^AM_V_GEN = $(am__v_GEN_$(V))$/;"	m
+AM_V_at	Makefile	/^AM_V_at = $(am__v_at_$(V))$/;"	m
+AM_V_at	src/Makefile	/^AM_V_at = $(am__v_at_$(V))$/;"	m
+AM_V_lt	src/Makefile	/^AM_V_lt = $(am__v_lt_$(V))$/;"	m
+AR	Makefile	/^AR = ar$/;"	m
+AR	src/Makefile	/^AR = ar$/;"	m
+AUTOCONF	Makefile	/^AUTOCONF = ${SHELL} \/home\/child\/downloads\/Yunio\/my_nginx\/my\/missing --run autoconf$/;"	m
+AUTOCONF	src/Makefile	/^AUTOCONF = ${SHELL} \/home\/child\/downloads\/Yunio\/my_nginx\/my\/missing --run autoconf$/;"	m
+AUTOHEADER	Makefile	/^AUTOHEADER = ${SHELL} \/home\/child\/downloads\/Yunio\/my_nginx\/my\/missing --run autoheader$/;"	m
+AUTOHEADER	src/Makefile	/^AUTOHEADER = ${SHELL} \/home\/child\/downloads\/Yunio\/my_nginx\/my\/missing --run autoheader$/;"	m
+AUTOMAKE	Makefile	/^AUTOMAKE = ${SHELL} \/home\/child\/downloads\/Yunio\/my_nginx\/my\/missing --run automake-1.11$/;"	m
+AUTOMAKE	src/Makefile	/^AUTOMAKE = ${SHELL} \/home\/child\/downloads\/Yunio\/my_nginx\/my\/missing --run automake-1.11$/;"	m
+AWK	Makefile	/^AWK = gawk$/;"	m
+AWK	src/Makefile	/^AWK = gawk$/;"	m
+CC	Makefile	/^CC = gcc$/;"	m
+CC	src/Makefile	/^CC = gcc$/;"	m
+CCDEPMODE	Makefile	/^CCDEPMODE = depmode=gcc3$/;"	m
+CCDEPMODE	src/Makefile	/^CCDEPMODE = depmode=gcc3$/;"	m
+CCLD	src/Makefile	/^CCLD = $(CC)$/;"	m
+CFLAGS	Makefile	/^CFLAGS = -g -O2$/;"	m
+CFLAGS	src/Makefile	/^CFLAGS = -g -O2$/;"	m
+COMPILE	src/Makefile	/^COMPILE = $(CC) $(DEFS) $(DEFAULT_INCLUDES) $(INCLUDES) $(AM_CPPFLAGS) \\$/;"	m
+CONFIG_CLEAN_FILES	Makefile	/^CONFIG_CLEAN_FILES =$/;"	m
+CONFIG_CLEAN_FILES	src/Makefile	/^CONFIG_CLEAN_FILES =$/;"	m
+CONFIG_CLEAN_VPATH_FILES	Makefile	/^CONFIG_CLEAN_VPATH_FILES =$/;"	m
+CONFIG_CLEAN_VPATH_FILES	src/Makefile	/^CONFIG_CLEAN_VPATH_FILES =$/;"	m
+CONFIG_HEADER	Makefile	/^CONFIG_HEADER = config.h$/;"	m
+CONFIG_HEADER	src/Makefile	/^CONFIG_HEADER = $(top_builddir)\/config.h$/;"	m
+CPP	Makefile	/^CPP = gcc -E$/;"	m
+CPP	src/Makefile	/^CPP = gcc -E$/;"	m
+CPPFLAGS	Makefile	/^CPPFLAGS = $/;"	m
+CPPFLAGS	src/Makefile	/^CPPFLAGS = $/;"	m
+CTAGS	Makefile	/^CTAGS = ctags$/;"	m
+CTAGS	src/Makefile	/^CTAGS = ctags$/;"	m
+CYGPATH_W	Makefile	/^CYGPATH_W = echo$/;"	m
+CYGPATH_W	src/Makefile	/^CYGPATH_W = echo$/;"	m
+CreateProcess	libtool	/^   CreateProcess().  We must quote the arguments since Win32 CreateProcess()$/;"	f
+CreateProcess	ltmain.sh	/^   CreateProcess().  We must quote the arguments since Win32 CreateProcess()$/;"	f
+DEFAULT_INCLUDES	src/Makefile	/^DEFAULT_INCLUDES = -I. -I$(top_builddir)$/;"	m
+DEFS	Makefile	/^DEFS = -DHAVE_CONFIG_H$/;"	m
+DEFS	src/Makefile	/^DEFS = -DHAVE_CONFIG_H$/;"	m
+DEPDIR	Makefile	/^DEPDIR = .deps$/;"	m
+DEPDIR	src/Makefile	/^DEPDIR = .deps$/;"	m
+DISTFILES	Makefile	/^DISTFILES = $(DIST_COMMON) $(DIST_SOURCES) $(TEXINFOS) $(EXTRA_DIST)$/;"	m
+DISTFILES	src/Makefile	/^DISTFILES = $(DIST_COMMON) $(DIST_SOURCES) $(TEXINFOS) $(EXTRA_DIST)$/;"	m
+DIST_ARCHIVES	Makefile	/^DIST_ARCHIVES = $(distdir).tar.gz$/;"	m
+DIST_COMMON	Makefile	/^DIST_COMMON = $(am__configure_deps) $(srcdir)\/Makefile.am \\$/;"	m
+DIST_COMMON	src/Makefile	/^DIST_COMMON = $(srcdir)\/Makefile.am $(srcdir)\/Makefile.in$/;"	m
+DIST_SOURCES	Makefile	/^DIST_SOURCES =$/;"	m
+DIST_SOURCES	src/Makefile	/^DIST_SOURCES = $(libcore_la_SOURCES) $(libunix_la_SOURCES) \\$/;"	m
+DIST_SUBDIRS	Makefile	/^DIST_SUBDIRS = $(SUBDIRS)$/;"	m
+DLLTOOL	Makefile	/^DLLTOOL = false$/;"	m
+DLLTOOL	src/Makefile	/^DLLTOOL = false$/;"	m
+DSYMUTIL	Makefile	/^DSYMUTIL = $/;"	m
+DSYMUTIL	src/Makefile	/^DSYMUTIL = $/;"	m
+DUMPBIN	Makefile	/^DUMPBIN = $/;"	m
+DUMPBIN	src/Makefile	/^DUMPBIN = $/;"	m
+ECHO_C	Makefile	/^ECHO_C = $/;"	m
+ECHO_C	src/Makefile	/^ECHO_C = $/;"	m
+ECHO_N	Makefile	/^ECHO_N = -n$/;"	m
+ECHO_N	src/Makefile	/^ECHO_N = -n$/;"	m
+ECHO_T	Makefile	/^ECHO_T = $/;"	m
+ECHO_T	src/Makefile	/^ECHO_T = $/;"	m
+EGREP	Makefile	/^EGREP = \/usr\/bin\/grep -E$/;"	m
+EGREP	src/Makefile	/^EGREP = \/usr\/bin\/grep -E$/;"	m
+ETAGS	Makefile	/^ETAGS = etags$/;"	m
+ETAGS	src/Makefile	/^ETAGS = etags$/;"	m
+EXEEXT	Makefile	/^EXEEXT = $/;"	m
+EXEEXT	src/Makefile	/^EXEEXT = $/;"	m
+FGREP	Makefile	/^FGREP = \/usr\/bin\/grep -F$/;"	m
+FGREP	src/Makefile	/^FGREP = \/usr\/bin\/grep -F$/;"	m
+GREP	Makefile	/^GREP = \/usr\/bin\/grep$/;"	m
+GREP	src/Makefile	/^GREP = \/usr\/bin\/grep$/;"	m
+GZIP_ENV	Makefile	/^GZIP_ENV = --best$/;"	m
+HAVE_DLFCN_H	config.h	5;"	d
+HAVE_INTTYPES_H	config.h	8;"	d
+HAVE_MEMORY_H	config.h	11;"	d
+HAVE_STDINT_H	config.h	14;"	d
+HAVE_STDLIB_H	config.h	17;"	d
+HAVE_STRINGS_H	config.h	20;"	d
+HAVE_STRING_H	config.h	23;"	d
+HAVE_SYS_STAT_H	config.h	26;"	d
+HAVE_SYS_TYPES_H	config.h	29;"	d
+HAVE_UNISTD_H	config.h	32;"	d
+INCLUDE	src/Makefile	/^INCLUDE = -I$(top_srcdir)\/src\/core -I$(top_srcdir)\/src\/os\/unix$/;"	m
+INSTALL	Makefile	/^INSTALL = \/usr\/bin\/install -c$/;"	m
+INSTALL	src/Makefile	/^INSTALL = \/usr\/bin\/install -c$/;"	m
+INSTALL_DATA	Makefile	/^INSTALL_DATA = ${INSTALL} -m 644$/;"	m
+INSTALL_DATA	src/Makefile	/^INSTALL_DATA = ${INSTALL} -m 644$/;"	m
+INSTALL_HEADER	Makefile	/^INSTALL_HEADER = $(INSTALL_DATA)$/;"	m
+INSTALL_HEADER	src/Makefile	/^INSTALL_HEADER = $(INSTALL_DATA)$/;"	m
+INSTALL_PROGRAM	Makefile	/^INSTALL_PROGRAM = ${INSTALL}$/;"	m
+INSTALL_PROGRAM	src/Makefile	/^INSTALL_PROGRAM = ${INSTALL}$/;"	m
+INSTALL_SCRIPT	Makefile	/^INSTALL_SCRIPT = ${INSTALL}$/;"	m
+INSTALL_SCRIPT	src/Makefile	/^INSTALL_SCRIPT = ${INSTALL}$/;"	m
+INSTALL_STRIP_PROGRAM	Makefile	/^INSTALL_STRIP_PROGRAM = $(install_sh) -c -s$/;"	m
+INSTALL_STRIP_PROGRAM	src/Makefile	/^INSTALL_STRIP_PROGRAM = $(install_sh) -c -s$/;"	m
+LD	Makefile	/^LD = \/usr\/bin\/ld -m elf_x86_64$/;"	m
+LD	src/Makefile	/^LD = \/usr\/bin\/ld -m elf_x86_64$/;"	m
+LDFLAGS	Makefile	/^LDFLAGS = $/;"	m
+LDFLAGS	src/Makefile	/^LDFLAGS = $/;"	m
+LF	src/core/ngx_core.h	8;"	d
+LIBOBJS	Makefile	/^LIBOBJS = $/;"	m
+LIBOBJS	src/Makefile	/^LIBOBJS = $/;"	m
+LIBS	Makefile	/^LIBS = $/;"	m
+LIBS	src/Makefile	/^LIBS = $/;"	m
+LIBTOOL	Makefile	/^LIBTOOL = $(SHELL) $(top_builddir)\/libtool$/;"	m
+LIBTOOL	src/Makefile	/^LIBTOOL = $(SHELL) $(top_builddir)\/libtool$/;"	m
+LINK	src/Makefile	/^LINK = $(LIBTOOL) $(AM_V_lt) --tag=CC $(AM_LIBTOOLFLAGS) \\$/;"	m
+LIPO	Makefile	/^LIPO = $/;"	m
+LIPO	src/Makefile	/^LIPO = $/;"	m
+LN_S	Makefile	/^LN_S = ln -s$/;"	m
+LN_S	src/Makefile	/^LN_S = ln -s$/;"	m
+LTCOMPILE	src/Makefile	/^LTCOMPILE = $(LIBTOOL) $(AM_V_lt) --tag=CC $(AM_LIBTOOLFLAGS) \\$/;"	m
+LTLIBOBJS	Makefile	/^LTLIBOBJS = $/;"	m
+LTLIBOBJS	src/Makefile	/^LTLIBOBJS = $/;"	m
+LTLIBRARIES	src/Makefile	/^LTLIBRARIES = $(noinst_LTLIBRARIES)$/;"	m
+LT_OBJDIR	config.h	36;"	d
+MAKEINFO	Makefile	/^MAKEINFO = ${SHELL} \/home\/child\/downloads\/Yunio\/my_nginx\/my\/missing --run makeinfo$/;"	m
+MAKEINFO	src/Makefile	/^MAKEINFO = ${SHELL} \/home\/child\/downloads\/Yunio\/my_nginx\/my\/missing --run makeinfo$/;"	m
+MANIFEST_TOOL	Makefile	/^MANIFEST_TOOL = :$/;"	m
+MANIFEST_TOOL	src/Makefile	/^MANIFEST_TOOL = :$/;"	m
+MKDIR_P	Makefile	/^MKDIR_P = \/usr\/bin\/mkdir -p$/;"	m
+MKDIR_P	src/Makefile	/^MKDIR_P = \/usr\/bin\/mkdir -p$/;"	m
+NGINX_VAR	src/core/nginx.h	9;"	d
+NGINX_VER	src/core/nginx.h	7;"	d
+NGINX_VERSION	src/core/nginx.h	6;"	d
+NGX_ATOMIC_T_LEN	src/os/unix/ngx_atomic.h	20;"	d
+NGX_ATOMIC_T_LEN	src/os/unix/ngx_atomic.h	22;"	d
+NGX_CONFIGURE	src/core/nginx.c	12;"	d	file:
+NGX_CONF_PATH	src/core/nginx.c	11;"	d	file:
+NGX_ERROR	src/core/ngx_core.h	11;"	d
+NGX_ERROR_LOG_PATH	src/core/ngx_config.h	18;"	d
+NGX_FILE_APPEND	src/os/unix/ngx_files.h	18;"	d
+NGX_FILE_APPEND	src/os/unix/ngx_files.h	8;"	d
+NGX_FILE_CREATE_OR_OPEN	src/os/unix/ngx_files.h	15;"	d
+NGX_FILE_DEFAULT_ACCESS	src/os/unix/ngx_files.h	21;"	d
+NGX_FILE_ERROR	src/os/unix/ngx_files.h	28;"	d
+NGX_FILE_NONBLOCK	src/os/unix/ngx_files.h	19;"	d
+NGX_FILE_NONBLOCK	src/os/unix/ngx_files.h	9;"	d
+NGX_FILE_OPEN	src/os/unix/ngx_files.h	16;"	d
+NGX_FILE_OWNER_ACCESS	src/os/unix/ngx_files.h	22;"	d
+NGX_FILE_RDONLY	src/os/unix/ngx_files.h	12;"	d
+NGX_FILE_RDWR	src/os/unix/ngx_files.h	14;"	d
+NGX_FILE_TRUNCATE	src/os/unix/ngx_files.h	17;"	d
+NGX_FILE_WRONLY	src/os/unix/ngx_files.h	13;"	d
+NGX_INT32_LEN	src/core/ngx_config.h	20;"	d
+NGX_INT64_LEN	src/core/ngx_config.h	21;"	d
+NGX_INT_T_LEN	src/core/ngx_config.h	24;"	d
+NGX_INT_T_LEN	src/core/ngx_config.h	26;"	d
+NGX_INVALID_FILE	src/os/unix/ngx_files.h	27;"	d
+NGX_LINEFEED	src/os/unix/ngx_files.h	44;"	d
+NGX_LINEFEED_SIZE	src/os/unix/ngx_files.h	43;"	d
+NGX_LOG_ALERT	src/core/ngx_log.h	16;"	d
+NGX_LOG_CRIT	src/core/ngx_log.h	17;"	d
+NGX_LOG_DEBUG	src/core/ngx_log.h	22;"	d
+NGX_LOG_EMERG	src/core/ngx_log.h	15;"	d
+NGX_LOG_ERR	src/core/ngx_log.h	18;"	d
+NGX_LOG_INFO	src/core/ngx_log.h	21;"	d
+NGX_LOG_NOTICE	src/core/ngx_log.h	20;"	d
+NGX_LOG_STDERR	src/core/ngx_log.h	14;"	d
+NGX_LOG_WARN	src/core/ngx_log.h	19;"	d
+NGX_MAX_ERROR_STR	src/core/ngx_log.h	23;"	d
+NGX_MAX_INT32_VALUE	src/core/ngx_config.h	35;"	d
+NGX_MAX_UINT32_VALUE	src/core/ngx_config.h	30;"	d
+NGX_MAX_UINT32_VALUE	src/core/ngx_config.h	32;"	d
+NGX_OK	src/core/ngx_core.h	10;"	d
+NGX_OLDPID_EXT	src/core/nginx.h	10;"	d
+NGX_PREFIX	src/core/ngx_config.h	17;"	d
+NGX_PROCESS_HELPER	src/os/unix/ngx_process_cycle.h	12;"	d
+NGX_PROCESS_MASTER	src/os/unix/ngx_process_cycle.h	9;"	d
+NGX_PROCESS_SIGNALLER	src/os/unix/ngx_process_cycle.h	10;"	d
+NGX_PROCESS_SINGLE	src/os/unix/ngx_process_cycle.h	8;"	d
+NGX_PROCESS_WORKER	src/os/unix/ngx_process_cycle.h	11;"	d
+NGX_PTR_SIZE	src/core/ngx_config.h	43;"	d
+NGX_SYS_NERR	src/core/ngx_config.h	8;"	d
+NGX_TIME_SLOTS	src/core/ngx_times.c	6;"	d	file:
+NM	Makefile	/^NM = \/usr\/bin\/nm -B$/;"	m
+NM	src/Makefile	/^NM = \/usr\/bin\/nm -B$/;"	m
+NMEDIT	Makefile	/^NMEDIT = $/;"	m
+NMEDIT	src/Makefile	/^NMEDIT = $/;"	m
+NORMAL_INSTALL	Makefile	/^NORMAL_INSTALL = :$/;"	m
+NORMAL_INSTALL	src/Makefile	/^NORMAL_INSTALL = :$/;"	m
+NORMAL_UNINSTALL	Makefile	/^NORMAL_UNINSTALL = :$/;"	m
+NORMAL_UNINSTALL	src/Makefile	/^NORMAL_UNINSTALL = :$/;"	m
+OBJDUMP	Makefile	/^OBJDUMP = objdump$/;"	m
+OBJDUMP	src/Makefile	/^OBJDUMP = objdump$/;"	m
+OBJEXT	Makefile	/^OBJEXT = o$/;"	m
+OBJEXT	src/Makefile	/^OBJEXT = o$/;"	m
+OTOOL	Makefile	/^OTOOL = $/;"	m
+OTOOL	src/Makefile	/^OTOOL = $/;"	m
+OTOOL64	Makefile	/^OTOOL64 = $/;"	m
+OTOOL64	src/Makefile	/^OTOOL64 = $/;"	m
+PACKAGE	Makefile	/^PACKAGE = mynginx$/;"	m
+PACKAGE	config.h	39;"	d
+PACKAGE	src/Makefile	/^PACKAGE = mynginx$/;"	m
+PACKAGE_BUGREPORT	Makefile	/^PACKAGE_BUGREPORT = xiewenlong@redflag-linux.com$/;"	m
+PACKAGE_BUGREPORT	config.h	42;"	d
+PACKAGE_BUGREPORT	src/Makefile	/^PACKAGE_BUGREPORT = xiewenlong@redflag-linux.com$/;"	m
+PACKAGE_NAME	Makefile	/^PACKAGE_NAME = mynginx$/;"	m
+PACKAGE_NAME	config.h	45;"	d
+PACKAGE_NAME	src/Makefile	/^PACKAGE_NAME = mynginx$/;"	m
+PACKAGE_STRING	Makefile	/^PACKAGE_STRING = mynginx 4.1$/;"	m
+PACKAGE_STRING	config.h	48;"	d
+PACKAGE_STRING	src/Makefile	/^PACKAGE_STRING = mynginx 4.1$/;"	m
+PACKAGE_TARNAME	Makefile	/^PACKAGE_TARNAME = mynginx$/;"	m
+PACKAGE_TARNAME	config.h	51;"	d
+PACKAGE_TARNAME	src/Makefile	/^PACKAGE_TARNAME = mynginx$/;"	m
+PACKAGE_URL	Makefile	/^PACKAGE_URL = http:\/\/www.baidu.com$/;"	m
+PACKAGE_URL	config.h	54;"	d
+PACKAGE_URL	src/Makefile	/^PACKAGE_URL = http:\/\/www.baidu.com$/;"	m
+PACKAGE_VERSION	Makefile	/^PACKAGE_VERSION = 4.1$/;"	m
+PACKAGE_VERSION	config.h	57;"	d
+PACKAGE_VERSION	src/Makefile	/^PACKAGE_VERSION = 4.1$/;"	m
+PATH_SEPARATOR	Makefile	/^PATH_SEPARATOR = :$/;"	m
+PATH_SEPARATOR	src/Makefile	/^PATH_SEPARATOR = :$/;"	m
+POST_INSTALL	Makefile	/^POST_INSTALL = :$/;"	m
+POST_INSTALL	src/Makefile	/^POST_INSTALL = :$/;"	m
+POST_UNINSTALL	Makefile	/^POST_UNINSTALL = :$/;"	m
+POST_UNINSTALL	src/Makefile	/^POST_UNINSTALL = :$/;"	m
+PRE_INSTALL	Makefile	/^PRE_INSTALL = :$/;"	m
+PRE_INSTALL	src/Makefile	/^PRE_INSTALL = :$/;"	m
+PRE_UNINSTALL	Makefile	/^PRE_UNINSTALL = :$/;"	m
+PRE_UNINSTALL	src/Makefile	/^PRE_UNINSTALL = :$/;"	m
+PROGRAMS	src/Makefile	/^PROGRAMS = $(bin_PROGRAMS)$/;"	m
+RANLIB	Makefile	/^RANLIB = ranlib$/;"	m
+RANLIB	src/Makefile	/^RANLIB = ranlib$/;"	m
+RECURSIVE_CLEAN_TARGETS	Makefile	/^RECURSIVE_CLEAN_TARGETS = mostlyclean-recursive clean-recursive	\\$/;"	m
+RECURSIVE_TARGETS	Makefile	/^RECURSIVE_TARGETS = all-recursive check-recursive dvi-recursive \\$/;"	m
+SED	Makefile	/^SED = \/usr\/bin\/sed$/;"	m
+SED	src/Makefile	/^SED = \/usr\/bin\/sed$/;"	m
+SET_MAKE	Makefile	/^SET_MAKE = $/;"	m
+SET_MAKE	src/Makefile	/^SET_MAKE = $/;"	m
+SHELL	Makefile	/^SHELL = \/bin\/sh$/;"	m
+SHELL	src/Makefile	/^SHELL = \/bin\/sh$/;"	m
+SOURCES	Makefile	/^SOURCES =$/;"	m
+SOURCES	src/Makefile	/^SOURCES = $(libcore_la_SOURCES) $(libunix_la_SOURCES) $(nginx_SOURCES)$/;"	m
+STDC_HEADERS	config.h	60;"	d
+STRIP	Makefile	/^STRIP = strip$/;"	m
+STRIP	src/Makefile	/^STRIP = strip$/;"	m
+SUBDIRS	Makefile	/^SUBDIRS = src$/;"	m
+VERSION	Makefile	/^VERSION = 4.1$/;"	m
+VERSION	config.h	63;"	d
+VERSION	src/Makefile	/^VERSION = 4.1$/;"	m
+_NGINX_H_INCLUDED_	src/core/nginx.h	2;"	d
+_NGX_ALLOC_H_INCLUDED_	src/os/unix/ngx_alloc.h	3;"	d
+_NGX_ATOMIC_H_INCLUDE_	src/os/unix/ngx_atomic.h	2;"	d
+_NGX_CONFIG_H_INCLUDE_	src/core/ngx_config.h	2;"	d
+_NGX_CORE_H_INCLUDE_	src/core/ngx_core.h	2;"	d
+_NGX_CYCLE_H_INCLUDE_	src/core/ngx_cycle.h	2;"	d
+_NGX_ERRNO_H_INCLUDE_	src/os/unix/ngx_errno.h	2;"	d
+_NGX_FILES_H_INCLUDE_	src/os/unix/ngx_files.h	2;"	d
+_NGX_HTTP_CONF_FILE_H_INCLUDED_	src/core/ngx_conf_file.h	2;"	d
+_NGX_LOG_H_INCLUDE_	src/core/ngx_log.h	2;"	d
+_NGX_PROCESS_CYCLE_H_INCLUDE_	src/os/unix/ngx_process_cycle.h	2;"	d
+_NGX_PROCESS_H_INCLUDE_	src/os/unix/ngx_process.h	3;"	d
+_NGX_RBTREE_H_INCLUDE_	src/core/ngx_rbtree.h	2;"	d
+_NGX_STRING_H_INCLUDE_	src/core/ngx_string.h	2;"	d
+_NGX_TIMES_H_INCLUDED_	src/core/ngx_times.h	2;"	d
+_NGX_TIME_H_INCLUDE_H	src/os/unix/ngx_time.h	2;"	d
+abs_builddir	Makefile	/^abs_builddir = \/home\/child\/downloads\/Yunio\/my_nginx\/my$/;"	m
+abs_builddir	src/Makefile	/^abs_builddir = \/home\/child\/downloads\/Yunio\/my_nginx\/my\/src$/;"	m
+abs_srcdir	Makefile	/^abs_srcdir = \/home\/child\/downloads\/Yunio\/my_nginx\/my$/;"	m
+abs_srcdir	src/Makefile	/^abs_srcdir = \/home\/child\/downloads\/Yunio\/my_nginx\/my\/src$/;"	m
+abs_top_builddir	Makefile	/^abs_top_builddir = \/home\/child\/downloads\/Yunio\/my_nginx\/my$/;"	m
+abs_top_builddir	src/Makefile	/^abs_top_builddir = \/home\/child\/downloads\/Yunio\/my_nginx\/my$/;"	m
+abs_top_srcdir	Makefile	/^abs_top_srcdir = \/home\/child\/downloads\/Yunio\/my_nginx\/my$/;"	m
+abs_top_srcdir	src/Makefile	/^abs_top_srcdir = \/home\/child\/downloads\/Yunio\/my_nginx\/my$/;"	m
+ac_ct_AR	Makefile	/^ac_ct_AR = ar$/;"	m
+ac_ct_AR	src/Makefile	/^ac_ct_AR = ar$/;"	m
+ac_ct_CC	Makefile	/^ac_ct_CC = gcc$/;"	m
+ac_ct_CC	src/Makefile	/^ac_ct_CC = gcc$/;"	m
+ac_ct_DUMPBIN	Makefile	/^ac_ct_DUMPBIN = $/;"	m
+ac_ct_DUMPBIN	src/Makefile	/^ac_ct_DUMPBIN = $/;"	m
+ac_fn_c_check_func	configure	/^ac_fn_c_check_func ()$/;"	f
+ac_fn_c_check_header_compile	configure	/^ac_fn_c_check_header_compile ()$/;"	f
+ac_fn_c_try_compile	configure	/^ac_fn_c_try_compile ()$/;"	f
+ac_fn_c_try_cpp	configure	/^ac_fn_c_try_cpp ()$/;"	f
+ac_fn_c_try_link	configure	/^ac_fn_c_try_link ()$/;"	f
+ac_fn_c_try_run	configure	/^ac_fn_c_try_run ()$/;"	f
+action	src/core/ngx_log.h	/^	char                *action;$/;"	m	struct:ngx_log_s
+am__CONFIG_DISTCLEAN_FILES	Makefile	/^am__CONFIG_DISTCLEAN_FILES = config.status config.cache config.log \\$/;"	m
+am__aclocal_m4_deps	Makefile	/^am__aclocal_m4_deps = $(top_srcdir)\/configure.in$/;"	m
+am__aclocal_m4_deps	src/Makefile	/^am__aclocal_m4_deps = $(top_srcdir)\/configure.in$/;"	m
+am__can_run_installinfo	Makefile	/^am__can_run_installinfo = \\$/;"	m
+am__can_run_installinfo	src/Makefile	/^am__can_run_installinfo = \\$/;"	m
+am__cd	Makefile	/^am__cd = CDPATH="$${ZSH_VERSION+.}$(PATH_SEPARATOR)" && cd$/;"	m
+am__cd	src/Makefile	/^am__cd = CDPATH="$${ZSH_VERSION+.}$(PATH_SEPARATOR)" && cd$/;"	m
+am__configure_deps	Makefile	/^am__configure_deps = $(am__aclocal_m4_deps) $(CONFIGURE_DEPENDENCIES) \\$/;"	m
+am__configure_deps	src/Makefile	/^am__configure_deps = $(am__aclocal_m4_deps) $(CONFIGURE_DEPENDENCIES) \\$/;"	m
+am__depfiles_maybe	src/Makefile	/^am__depfiles_maybe = depfiles$/;"	m
+am__distuninstallcheck_listfiles	Makefile	/^am__distuninstallcheck_listfiles = $(distuninstallcheck_listfiles) \\$/;"	m
+am__include	Makefile	/^am__include = include$/;"	m
+am__include	src/Makefile	/^am__include = include$/;"	m
+am__installdirs	src/Makefile	/^am__installdirs = "$(DESTDIR)$(bindir)"$/;"	m
+am__leading_dot	Makefile	/^am__leading_dot = .$/;"	m
+am__leading_dot	src/Makefile	/^am__leading_dot = .$/;"	m
+am__make_dryrun	Makefile	/^am__make_dryrun = \\$/;"	m
+am__make_dryrun	src/Makefile	/^am__make_dryrun = \\$/;"	m
+am__mv	src/Makefile	/^am__mv = mv -f$/;"	m
+am__quote	Makefile	/^am__quote = $/;"	m
+am__quote	src/Makefile	/^am__quote = $/;"	m
+am__relativize	Makefile	/^am__relativize = \\$/;"	m
+am__remove_distdir	Makefile	/^am__remove_distdir = \\$/;"	m
+am__tar	Makefile	/^am__tar = $${TAR-tar} chof - "$$tardir"$/;"	m
+am__tar	src/Makefile	/^am__tar = $${TAR-tar} chof - "$$tardir"$/;"	m
+am__untar	Makefile	/^am__untar = $${TAR-tar} xf -$/;"	m
+am__untar	src/Makefile	/^am__untar = $${TAR-tar} xf -$/;"	m
+am__v_CCLD_	src/Makefile	/^am__v_CCLD_ = $(am__v_CCLD_$(AM_DEFAULT_VERBOSITY))$/;"	m
+am__v_CCLD_0	src/Makefile	/^am__v_CCLD_0 = @echo "  CCLD  " $@;$/;"	m
+am__v_CC_	src/Makefile	/^am__v_CC_ = $(am__v_CC_$(AM_DEFAULT_VERBOSITY))$/;"	m
+am__v_CC_0	src/Makefile	/^am__v_CC_0 = @echo "  CC    " $@;$/;"	m
+am__v_GEN_	Makefile	/^am__v_GEN_ = $(am__v_GEN_$(AM_DEFAULT_VERBOSITY))$/;"	m
+am__v_GEN_	src/Makefile	/^am__v_GEN_ = $(am__v_GEN_$(AM_DEFAULT_VERBOSITY))$/;"	m
+am__v_GEN_0	Makefile	/^am__v_GEN_0 = @echo "  GEN   " $@;$/;"	m
+am__v_GEN_0	src/Makefile	/^am__v_GEN_0 = @echo "  GEN   " $@;$/;"	m
+am__v_at_	Makefile	/^am__v_at_ = $(am__v_at_$(AM_DEFAULT_VERBOSITY))$/;"	m
+am__v_at_	src/Makefile	/^am__v_at_ = $(am__v_at_$(AM_DEFAULT_VERBOSITY))$/;"	m
+am__v_at_0	Makefile	/^am__v_at_0 = @$/;"	m
+am__v_at_0	src/Makefile	/^am__v_at_0 = @$/;"	m
+am__v_lt_	src/Makefile	/^am__v_lt_ = $(am__v_lt_$(AM_DEFAULT_VERBOSITY))$/;"	m
+am__v_lt_0	src/Makefile	/^am__v_lt_0 = --silent$/;"	m
+am_libcore_la_OBJECTS	src/Makefile	/^am_libcore_la_OBJECTS = libcore_la-ngx_log.lo libcore_la-ngx_string.lo \\$/;"	m
+am_libunix_la_OBJECTS	src/Makefile	/^am_libunix_la_OBJECTS = libunix_la-ngx_errno.lo \\$/;"	m
+am_nginx_OBJECTS	src/Makefile	/^am_nginx_OBJECTS = nginx-nginx.$(OBJEXT)$/;"	m
+as_fn_append	config.status	/^  as_fn_append ()$/;"	f
+as_fn_append	configure	/^  as_fn_append ()$/;"	f
+as_fn_arith	config.status	/^  as_fn_arith ()$/;"	f
+as_fn_arith	configure	/^  as_fn_arith ()$/;"	f
+as_fn_error	config.status	/^as_fn_error ()$/;"	f
+as_fn_error	configure	/^as_fn_error ()$/;"	f
+as_fn_exit	config.status	/^as_fn_exit ()$/;"	f
+as_fn_exit	configure	/^as_fn_exit ()$/;"	f
+as_fn_failure	configure	/^as_fn_failure () { as_fn_return 1; }$/;"	f
+as_fn_mkdir_p	config.status	/^as_fn_mkdir_p ()$/;"	f
+as_fn_mkdir_p	configure	/^as_fn_mkdir_p ()$/;"	f
+as_fn_ret_failure	configure	/^as_fn_ret_failure () { return 1; }$/;"	f
+as_fn_ret_success	configure	/^as_fn_ret_success () { return 0; }$/;"	f
+as_fn_set_status	config.status	/^as_fn_set_status ()$/;"	f
+as_fn_set_status	configure	/^as_fn_set_status ()$/;"	f
+as_fn_success	configure	/^as_fn_success () { as_fn_return 0; }$/;"	f
+as_fn_unset	config.status	/^as_fn_unset ()$/;"	f
+as_fn_unset	configure	/^as_fn_unset ()$/;"	f
+bin_PROGRAMS	src/Makefile	/^bin_PROGRAMS = nginx$(EXEEXT)$/;"	m
+bindir	Makefile	/^bindir = ${exec_prefix}\/bin$/;"	m
+bindir	src/Makefile	/^bindir = ${exec_prefix}\/bin$/;"	m
+build	Makefile	/^build = x86_64-unknown-linux-gnu$/;"	m
+build	src/Makefile	/^build = x86_64-unknown-linux-gnu$/;"	m
+build_alias	Makefile	/^build_alias = $/;"	m
+build_alias	src/Makefile	/^build_alias = $/;"	m
+build_cpu	Makefile	/^build_cpu = x86_64$/;"	m
+build_cpu	src/Makefile	/^build_cpu = x86_64$/;"	m
+build_os	Makefile	/^build_os = linux-gnu$/;"	m
+build_os	src/Makefile	/^build_os = linux-gnu$/;"	m
+build_triplet	Makefile	/^build_triplet = x86_64-unknown-linux-gnu$/;"	m
+build_triplet	src/Makefile	/^build_triplet = x86_64-unknown-linux-gnu$/;"	m
+build_vendor	Makefile	/^build_vendor = unknown$/;"	m
+build_vendor	src/Makefile	/^build_vendor = unknown$/;"	m
+builddir	Makefile	/^builddir = .$/;"	m
+builddir	src/Makefile	/^builddir = .$/;"	m
+cached_err_log_time	src/core/ngx_times.c	/^static u_char            cached_err_log_time[NGX_TIME_SLOTS]$/;"	v	file:
+cached_gmtoff	src/core/ngx_times.c	/^static ngx_int_t         cached_gmtoff;$/;"	v	file:
+cached_http_log_iso8601	src/core/ngx_times.c	/^static u_char            cached_http_log_iso8601[NGX_TIME_SLOTS]$/;"	v	file:
+cached_http_log_time	src/core/ngx_times.c	/^static u_char            cached_http_log_time[NGX_TIME_SLOTS]$/;"	v	file:
+cached_http_time	src/core/ngx_times.c	/^static u_char            cached_http_time[NGX_TIME_SLOTS]$/;"	v	file:
+cached_time	src/core/ngx_times.c	/^static ngx_time_t				cached_time[NGX_TIME_SLOTS];$/;"	v	file:
+connection	src/core/ngx_log.h	/^	ngx_atomic_uint_t    connection;$/;"	m	struct:ngx_log_s
+data	src/core/ngx_conf_file.h	/^    void                 *data;$/;"	m	struct:ngx_open_file_s
+data	src/core/ngx_log.h	/^	void                *data;$/;"	m	struct:ngx_log_s
+data	src/core/ngx_string.h	/^	u_char		*data;$/;"	m	struct:__anon1
+data	src/core/ngx_string.h	/^	u_char     *data;$/;"	m	struct:__anon2
+datadir	Makefile	/^datadir = ${datarootdir}$/;"	m
+datadir	src/Makefile	/^datadir = ${datarootdir}$/;"	m
+datarootdir	Makefile	/^datarootdir = ${prefix}\/share$/;"	m
+datarootdir	src/Makefile	/^datarootdir = ${prefix}\/share$/;"	m
+depcomp	src/Makefile	/^depcomp = $(SHELL) $(top_srcdir)\/depcomp$/;"	m
+distcleancheck_listfiles	Makefile	/^distcleancheck_listfiles = find . -type f -print$/;"	m
+distdir	Makefile	/^distdir = $(PACKAGE)-$(VERSION)$/;"	m
+distuninstallcheck_listfiles	Makefile	/^distuninstallcheck_listfiles = find . -type f -print$/;"	m
+docdir	Makefile	/^docdir = ${datarootdir}\/doc\/${PACKAGE_TARNAME}$/;"	m
+docdir	src/Makefile	/^docdir = ${datarootdir}\/doc\/${PACKAGE_TARNAME}$/;"	m
+dvidir	Makefile	/^dvidir = ${docdir}$/;"	m
+dvidir	src/Makefile	/^dvidir = ${docdir}$/;"	m
+escape	src/core/ngx_string.h	/^	unsigned    escape:1;$/;"	m	struct:__anon2
+exec_prefix	Makefile	/^exec_prefix = ${prefix}$/;"	m
+exec_prefix	src/Makefile	/^exec_prefix = ${prefix}$/;"	m
+fd	src/core/ngx_conf_file.h	/^    ngx_fd_t              fd;$/;"	m	struct:ngx_open_file_s
+file	src/core/ngx_log.h	/^	ngx_open_file_t     *file;$/;"	m	struct:ngx_log_s
+flush	src/core/ngx_conf_file.h	/^    void                (*flush)(ngx_open_file_t *file, ngx_log_t *log);$/;"	m	struct:ngx_open_file_s
+func_append	config.status	/^func_append ()\\$/;"	f
+func_append	configure	/^func_append ()\\$/;"	f
+func_append	libtool	/^func_append ()$/;"	f
+func_append	ltmain.sh	/^func_append ()$/;"	f
+func_append_quoted	config.status	/^func_append_quoted ()\\$/;"	f
+func_append_quoted	configure	/^func_append_quoted ()\\$/;"	f
+func_append_quoted	libtool	/^func_append_quoted ()$/;"	f
+func_append_quoted	ltmain.sh	/^func_append_quoted ()$/;"	f
+func_arith	config.status	/^func_arith ()\\$/;"	f
+func_arith	configure	/^func_arith ()\\$/;"	f
+func_arith	libtool	/^func_arith ()$/;"	f
+func_arith	ltmain.sh	/^func_arith ()$/;"	f
+func_basename	config.status	/^func_basename ()\\$/;"	f
+func_basename	configure	/^func_basename ()\\$/;"	f
+func_basename	libtool	/^func_basename ()$/;"	f
+func_basename	ltmain.sh	/^func_basename ()$/;"	f
+func_check_version_match	libtool	/^func_check_version_match ()$/;"	f
+func_check_version_match	ltmain.sh	/^func_check_version_match ()$/;"	f
+func_config	libtool	/^func_config ()$/;"	f
+func_config	ltmain.sh	/^func_config ()$/;"	f
+func_convert_core_file_wine_to_w32	libtool	/^func_convert_core_file_wine_to_w32 ()$/;"	f
+func_convert_core_file_wine_to_w32	ltmain.sh	/^func_convert_core_file_wine_to_w32 ()$/;"	f
+func_convert_core_msys_to_w32	libtool	/^func_convert_core_msys_to_w32 ()$/;"	f
+func_convert_core_msys_to_w32	ltmain.sh	/^func_convert_core_msys_to_w32 ()$/;"	f
+func_convert_core_path_wine_to_w32	libtool	/^func_convert_core_path_wine_to_w32 ()$/;"	f
+func_convert_core_path_wine_to_w32	ltmain.sh	/^func_convert_core_path_wine_to_w32 ()$/;"	f
+func_convert_file_check	libtool	/^func_convert_file_check ()$/;"	f
+func_convert_file_check	ltmain.sh	/^func_convert_file_check ()$/;"	f
+func_convert_file_cygwin_to_w32	libtool	/^func_convert_file_cygwin_to_w32 ()$/;"	f
+func_convert_file_cygwin_to_w32	ltmain.sh	/^func_convert_file_cygwin_to_w32 ()$/;"	f
+func_convert_file_msys_to_cygwin	libtool	/^func_convert_file_msys_to_cygwin ()$/;"	f
+func_convert_file_msys_to_cygwin	ltmain.sh	/^func_convert_file_msys_to_cygwin ()$/;"	f
+func_convert_file_msys_to_w32	libtool	/^func_convert_file_msys_to_w32 ()$/;"	f
+func_convert_file_msys_to_w32	ltmain.sh	/^func_convert_file_msys_to_w32 ()$/;"	f
+func_convert_file_nix_to_cygwin	libtool	/^func_convert_file_nix_to_cygwin ()$/;"	f
+func_convert_file_nix_to_cygwin	ltmain.sh	/^func_convert_file_nix_to_cygwin ()$/;"	f
+func_convert_file_nix_to_w32	libtool	/^func_convert_file_nix_to_w32 ()$/;"	f
+func_convert_file_nix_to_w32	ltmain.sh	/^func_convert_file_nix_to_w32 ()$/;"	f
+func_convert_file_noop	libtool	/^func_convert_file_noop ()$/;"	f
+func_convert_file_noop	ltmain.sh	/^func_convert_file_noop ()$/;"	f
+func_convert_path_check	libtool	/^func_convert_path_check ()$/;"	f
+func_convert_path_check	ltmain.sh	/^func_convert_path_check ()$/;"	f
+func_convert_path_cygwin_to_w32	libtool	/^func_convert_path_cygwin_to_w32 ()$/;"	f
+func_convert_path_cygwin_to_w32	ltmain.sh	/^func_convert_path_cygwin_to_w32 ()$/;"	f
+func_convert_path_front_back_pathsep	libtool	/^func_convert_path_front_back_pathsep ()$/;"	f
+func_convert_path_front_back_pathsep	ltmain.sh	/^func_convert_path_front_back_pathsep ()$/;"	f
+func_convert_path_msys_to_cygwin	libtool	/^func_convert_path_msys_to_cygwin ()$/;"	f
+func_convert_path_msys_to_cygwin	ltmain.sh	/^func_convert_path_msys_to_cygwin ()$/;"	f
+func_convert_path_msys_to_w32	libtool	/^func_convert_path_msys_to_w32 ()$/;"	f
+func_convert_path_msys_to_w32	ltmain.sh	/^func_convert_path_msys_to_w32 ()$/;"	f
+func_convert_path_nix_to_cygwin	libtool	/^func_convert_path_nix_to_cygwin ()$/;"	f
+func_convert_path_nix_to_cygwin	ltmain.sh	/^func_convert_path_nix_to_cygwin ()$/;"	f
+func_convert_path_nix_to_w32	libtool	/^func_convert_path_nix_to_w32 ()$/;"	f
+func_convert_path_nix_to_w32	ltmain.sh	/^func_convert_path_nix_to_w32 ()$/;"	f
+func_convert_path_noop	libtool	/^func_convert_path_noop ()$/;"	f
+func_convert_path_noop	ltmain.sh	/^func_convert_path_noop ()$/;"	f
+func_cygming_dll_for_implib	libtool	/^func_cygming_dll_for_implib ()$/;"	f
+func_cygming_dll_for_implib	ltmain.sh	/^func_cygming_dll_for_implib ()$/;"	f
+func_cygming_dll_for_implib_fallback	libtool	/^func_cygming_dll_for_implib_fallback ()$/;"	f
+func_cygming_dll_for_implib_fallback	ltmain.sh	/^func_cygming_dll_for_implib_fallback ()$/;"	f
+func_cygming_dll_for_implib_fallback_core	libtool	/^func_cygming_dll_for_implib_fallback_core ()$/;"	f
+func_cygming_dll_for_implib_fallback_core	ltmain.sh	/^func_cygming_dll_for_implib_fallback_core ()$/;"	f
+func_cygming_gnu_implib_p	libtool	/^func_cygming_gnu_implib_p ()$/;"	f
+func_cygming_gnu_implib_p	ltmain.sh	/^func_cygming_gnu_implib_p ()$/;"	f
+func_cygming_ms_implib_p	libtool	/^func_cygming_ms_implib_p ()$/;"	f
+func_cygming_ms_implib_p	ltmain.sh	/^func_cygming_ms_implib_p ()$/;"	f
+func_cygpath	libtool	/^func_cygpath ()$/;"	f
+func_cygpath	ltmain.sh	/^func_cygpath ()$/;"	f
+func_dirname	config.status	/^func_dirname ()\\$/;"	f
+func_dirname	configure	/^func_dirname ()\\$/;"	f
+func_dirname	libtool	/^func_dirname ()$/;"	f
+func_dirname	ltmain.sh	/^func_dirname ()$/;"	f
+func_dirname_and_basename	config.status	/^func_dirname_and_basename ()\\$/;"	f
+func_dirname_and_basename	configure	/^func_dirname_and_basename ()\\$/;"	f
+func_dirname_and_basename	libtool	/^func_dirname_and_basename ()$/;"	f
+func_dirname_and_basename	ltmain.sh	/^func_dirname_and_basename ()$/;"	f
+func_echo	libtool	/^func_echo ()$/;"	f
+func_echo	ltmain.sh	/^func_echo ()$/;"	f
+func_echo_all	configure	/^func_echo_all ()$/;"	f
+func_echo_all	libtool	/^func_echo_all ()$/;"	f
+func_echo_all	ltmain.sh	/^func_echo_all ()$/;"	f
+func_emit_cwrapperexe_src	libtool	/^func_emit_cwrapperexe_src ()$/;"	f
+func_emit_cwrapperexe_src	ltmain.sh	/^func_emit_cwrapperexe_src ()$/;"	f
+func_emit_wrapper	libtool	/^func_emit_wrapper ()$/;"	f
+func_emit_wrapper	ltmain.sh	/^func_emit_wrapper ()$/;"	f
+func_enable_tag	libtool	/^func_enable_tag ()$/;"	f
+func_enable_tag	ltmain.sh	/^func_enable_tag ()$/;"	f
+func_error	libtool	/^func_error ()$/;"	f
+func_error	ltmain.sh	/^func_error ()$/;"	f
+func_exec_program	libtool	/^func_exec_program ()$/;"	f
+func_exec_program	ltmain.sh	/^func_exec_program ()$/;"	f
+func_exec_program_core	libtool	/^func_exec_program_core ()$/;"	f
+func_exec_program_core	ltmain.sh	/^func_exec_program_core ()$/;"	f
+func_execute_cmds	libtool	/^func_execute_cmds ()$/;"	f
+func_execute_cmds	ltmain.sh	/^func_execute_cmds ()$/;"	f
+func_extract_an_archive	libtool	/^func_extract_an_archive ()$/;"	f
+func_extract_an_archive	ltmain.sh	/^func_extract_an_archive ()$/;"	f
+func_extract_archives	libtool	/^func_extract_archives ()$/;"	f
+func_extract_archives	ltmain.sh	/^func_extract_archives ()$/;"	f
+func_fallback_echo	config.status	/^func_fallback_echo ()$/;"	f
+func_fallback_echo	configure	/^  func_fallback_echo ()$/;"	f
+func_fallback_echo	configure	/^func_fallback_echo ()$/;"	f
+func_fallback_echo	libtool	/^func_fallback_echo ()$/;"	f
+func_fallback_echo	ltmain.sh	/^func_fallback_echo ()$/;"	f
+func_fatal_configuration	libtool	/^func_fatal_configuration ()$/;"	f
+func_fatal_configuration	ltmain.sh	/^func_fatal_configuration ()$/;"	f
+func_fatal_error	libtool	/^func_fatal_error ()$/;"	f
+func_fatal_error	ltmain.sh	/^func_fatal_error ()$/;"	f
+func_fatal_help	libtool	/^func_fatal_help ()$/;"	f
+func_fatal_help	ltmain.sh	/^func_fatal_help ()$/;"	f
+func_features	libtool	/^func_features ()$/;"	f
+func_features	ltmain.sh	/^func_features ()$/;"	f
+func_generate_dlsyms	libtool	/^func_generate_dlsyms ()$/;"	f
+func_generate_dlsyms	ltmain.sh	/^func_generate_dlsyms ()$/;"	f
+func_grep	libtool	/^func_grep ()$/;"	f
+func_grep	ltmain.sh	/^func_grep ()$/;"	f
+func_help	libtool	/^func_help ()$/;"	f
+func_help	ltmain.sh	/^func_help ()$/;"	f
+func_infer_tag	libtool	/^func_infer_tag ()$/;"	f
+func_infer_tag	ltmain.sh	/^func_infer_tag ()$/;"	f
+func_init_to_host_path_cmd	libtool	/^func_init_to_host_path_cmd ()$/;"	f
+func_init_to_host_path_cmd	ltmain.sh	/^func_init_to_host_path_cmd ()$/;"	f
+func_lalib_p	libtool	/^func_lalib_p ()$/;"	f
+func_lalib_p	ltmain.sh	/^func_lalib_p ()$/;"	f
+func_lalib_unsafe_p	libtool	/^func_lalib_unsafe_p ()$/;"	f
+func_lalib_unsafe_p	ltmain.sh	/^func_lalib_unsafe_p ()$/;"	f
+func_len	config.status	/^func_len ()\\$/;"	f
+func_len	configure	/^func_len ()\\$/;"	f
+func_len	libtool	/^func_len ()$/;"	f
+func_len	ltmain.sh	/^func_len ()$/;"	f
+func_lo2o	config.status	/^func_lo2o ()\\$/;"	f
+func_lo2o	configure	/^func_lo2o ()\\$/;"	f
+func_lo2o	libtool	/^func_lo2o ()$/;"	f
+func_lo2o	ltmain.sh	/^func_lo2o ()$/;"	f
+func_lt_dump_args	libtool	/^func_lt_dump_args ()$/;"	f
+func_lt_dump_args	ltmain.sh	/^func_lt_dump_args ()$/;"	f
+func_ltwrapper_executable_p	libtool	/^func_ltwrapper_executable_p ()$/;"	f
+func_ltwrapper_executable_p	ltmain.sh	/^func_ltwrapper_executable_p ()$/;"	f
+func_ltwrapper_p	libtool	/^func_ltwrapper_p ()$/;"	f
+func_ltwrapper_p	ltmain.sh	/^func_ltwrapper_p ()$/;"	f
+func_ltwrapper_script_p	libtool	/^func_ltwrapper_script_p ()$/;"	f
+func_ltwrapper_script_p	ltmain.sh	/^func_ltwrapper_script_p ()$/;"	f
+func_ltwrapper_scriptname	libtool	/^func_ltwrapper_scriptname ()$/;"	f
+func_ltwrapper_scriptname	ltmain.sh	/^func_ltwrapper_scriptname ()$/;"	f
+func_missing_arg	libtool	/^func_missing_arg ()$/;"	f
+func_missing_arg	ltmain.sh	/^func_missing_arg ()$/;"	f
+func_mkdir_p	libtool	/^func_mkdir_p ()$/;"	f
+func_mkdir_p	ltmain.sh	/^func_mkdir_p ()$/;"	f
+func_mktempdir	libtool	/^func_mktempdir ()$/;"	f
+func_mktempdir	ltmain.sh	/^func_mktempdir ()$/;"	f
+func_mode_compile	libtool	/^func_mode_compile ()$/;"	f
+func_mode_compile	ltmain.sh	/^func_mode_compile ()$/;"	f
+func_mode_execute	libtool	/^func_mode_execute ()$/;"	f
+func_mode_execute	ltmain.sh	/^func_mode_execute ()$/;"	f
+func_mode_finish	libtool	/^func_mode_finish ()$/;"	f
+func_mode_finish	ltmain.sh	/^func_mode_finish ()$/;"	f
+func_mode_help	libtool	/^func_mode_help ()$/;"	f
+func_mode_help	ltmain.sh	/^func_mode_help ()$/;"	f
+func_mode_install	libtool	/^func_mode_install ()$/;"	f
+func_mode_install	ltmain.sh	/^func_mode_install ()$/;"	f
+func_mode_link	libtool	/^func_mode_link ()$/;"	f
+func_mode_link	ltmain.sh	/^func_mode_link ()$/;"	f
+func_mode_uninstall	libtool	/^func_mode_uninstall ()$/;"	f
+func_mode_uninstall	ltmain.sh	/^func_mode_uninstall ()$/;"	f
+func_normal_abspath	libtool	/^func_normal_abspath ()$/;"	f
+func_normal_abspath	ltmain.sh	/^func_normal_abspath ()$/;"	f
+func_parse_lt_options	libtool	/^func_parse_lt_options ()$/;"	f
+func_parse_lt_options	ltmain.sh	/^func_parse_lt_options ()$/;"	f
+func_quote_for_eval	libtool	/^func_quote_for_eval ()$/;"	f
+func_quote_for_eval	ltmain.sh	/^func_quote_for_eval ()$/;"	f
+func_quote_for_expand	libtool	/^func_quote_for_expand ()$/;"	f
+func_quote_for_expand	ltmain.sh	/^func_quote_for_expand ()$/;"	f
+func_relative_path	libtool	/^func_relative_path ()$/;"	f
+func_relative_path	ltmain.sh	/^func_relative_path ()$/;"	f
+func_replace_sysroot	libtool	/^func_replace_sysroot ()$/;"	f
+func_replace_sysroot	ltmain.sh	/^func_replace_sysroot ()$/;"	f
+func_resolve_sysroot	libtool	/^func_resolve_sysroot ()$/;"	f
+func_resolve_sysroot	ltmain.sh	/^func_resolve_sysroot ()$/;"	f
+func_show_eval	libtool	/^func_show_eval ()$/;"	f
+func_show_eval	ltmain.sh	/^func_show_eval ()$/;"	f
+func_show_eval_locale	libtool	/^func_show_eval_locale ()$/;"	f
+func_show_eval_locale	ltmain.sh	/^func_show_eval_locale ()$/;"	f
+func_source	libtool	/^func_source ()$/;"	f
+func_source	ltmain.sh	/^func_source ()$/;"	f
+func_split_long_opt	config.status	/^func_split_long_opt ()\\$/;"	f
+func_split_long_opt	configure	/^func_split_long_opt ()\\$/;"	f
+func_split_long_opt	libtool	/^func_split_long_opt ()$/;"	f
+func_split_long_opt	ltmain.sh	/^func_split_long_opt ()$/;"	f
+func_split_short_opt	config.status	/^func_split_short_opt ()\\$/;"	f
+func_split_short_opt	configure	/^func_split_short_opt ()\\$/;"	f
+func_split_short_opt	libtool	/^func_split_short_opt ()$/;"	f
+func_split_short_opt	ltmain.sh	/^func_split_short_opt ()$/;"	f
+func_stripname	config.status	/^func_stripname ()\\$/;"	f
+func_stripname	configure	/^func_stripname ()\\$/;"	f
+func_stripname	libtool	/^func_stripname ()$/;"	f
+func_stripname	ltmain.sh	/^func_stripname ()$/;"	f
+func_to_host_file	libtool	/^func_to_host_file ()$/;"	f
+func_to_host_file	ltmain.sh	/^func_to_host_file ()$/;"	f
+func_to_host_path	libtool	/^func_to_host_path ()$/;"	f
+func_to_host_path	ltmain.sh	/^func_to_host_path ()$/;"	f
+func_to_tool_file	libtool	/^func_to_tool_file ()$/;"	f
+func_to_tool_file	ltmain.sh	/^func_to_tool_file ()$/;"	f
+func_tr_sh	libtool	/^func_tr_sh ()$/;"	f
+func_tr_sh	ltmain.sh	/^func_tr_sh ()$/;"	f
+func_usage	libtool	/^func_usage ()$/;"	f
+func_usage	ltmain.sh	/^func_usage ()$/;"	f
+func_verbose	libtool	/^func_verbose ()$/;"	f
+func_verbose	ltmain.sh	/^func_verbose ()$/;"	f
+func_version	libtool	/^func_version ()$/;"	f
+func_version	ltmain.sh	/^func_version ()$/;"	f
+func_warning	libtool	/^func_warning ()$/;"	f
+func_warning	ltmain.sh	/^func_warning ()$/;"	f
+func_win32_import_lib_p	libtool	/^func_win32_import_lib_p ()$/;"	f
+func_win32_import_lib_p	ltmain.sh	/^func_win32_import_lib_p ()$/;"	f
+func_win32_libid	libtool	/^func_win32_libid ()$/;"	f
+func_win32_libid	ltmain.sh	/^func_win32_libid ()$/;"	f
+func_write_libtool_object	libtool	/^func_write_libtool_object ()$/;"	f
+func_write_libtool_object	ltmain.sh	/^func_write_libtool_object ()$/;"	f
+func_xform	config.status	/^func_xform ()\\$/;"	f
+func_xform	configure	/^func_xform ()\\$/;"	f
+func_xform	libtool	/^func_xform ()$/;"	f
+func_xform	ltmain.sh	/^func_xform ()$/;"	f
+gmtoff	src/core/ngx_times.h	/^	ngx_int_t   gmtoff;$/;"	m	struct:__anon3
+handler	src/core/ngx_log.h	/^	ngx_log_handler_pt   handler;$/;"	m	struct:ngx_log_s
+host	Makefile	/^host = x86_64-unknown-linux-gnu$/;"	m
+host	src/Makefile	/^host = x86_64-unknown-linux-gnu$/;"	m
+host_alias	Makefile	/^host_alias = $/;"	m
+host_alias	src/Makefile	/^host_alias = $/;"	m
+host_cpu	Makefile	/^host_cpu = x86_64$/;"	m
+host_cpu	src/Makefile	/^host_cpu = x86_64$/;"	m
+host_os	Makefile	/^host_os = linux-gnu$/;"	m
+host_os	src/Makefile	/^host_os = linux-gnu$/;"	m
+host_triplet	Makefile	/^host_triplet = x86_64-unknown-linux-gnu$/;"	m
+host_triplet	src/Makefile	/^host_triplet = x86_64-unknown-linux-gnu$/;"	m
+host_vendor	Makefile	/^host_vendor = unknown$/;"	m
+host_vendor	src/Makefile	/^host_vendor = unknown$/;"	m
+htmldir	Makefile	/^htmldir = ${docdir}$/;"	m
+htmldir	src/Makefile	/^htmldir = ${docdir}$/;"	m
+includedir	Makefile	/^includedir = ${prefix}\/include$/;"	m
+includedir	src/Makefile	/^includedir = ${prefix}\/include$/;"	m
+infodir	Makefile	/^infodir = ${datarootdir}\/info$/;"	m
+infodir	src/Makefile	/^infodir = ${datarootdir}\/info$/;"	m
+install_sh	Makefile	/^install_sh = ${SHELL} \/home\/child\/downloads\/Yunio\/my_nginx\/my\/install-sh$/;"	m
+install_sh	src/Makefile	/^install_sh = ${SHELL} \/home\/child\/downloads\/Yunio\/my_nginx\/my\/install-sh$/;"	m
+install_sh_DATA	Makefile	/^install_sh_DATA = $(install_sh) -c -m 644$/;"	m
+install_sh_DATA	src/Makefile	/^install_sh_DATA = $(install_sh) -c -m 644$/;"	m
+install_sh_PROGRAM	Makefile	/^install_sh_PROGRAM = $(install_sh) -c$/;"	m
+install_sh_PROGRAM	src/Makefile	/^install_sh_PROGRAM = $(install_sh) -c$/;"	m
+install_sh_SCRIPT	Makefile	/^install_sh_SCRIPT = $(install_sh) -c$/;"	m
+install_sh_SCRIPT	src/Makefile	/^install_sh_SCRIPT = $(install_sh) -c$/;"	m
+len	src/core/ngx_string.h	/^	size_t		len;$/;"	m	struct:__anon1
+len	src/core/ngx_string.h	/^	unsigned    len:28;$/;"	m	struct:__anon2
+libcore_la_CFLAGS	src/Makefile	/^libcore_la_CFLAGS = -I$(top_srcdir)\/src\/core -I$(top_srcdir)\/src\/os\/unix$/;"	m
+libcore_la_LIBADD	src/Makefile	/^libcore_la_LIBADD =$/;"	m
+libcore_la_LINK	src/Makefile	/^libcore_la_LINK = $(LIBTOOL) $(AM_V_lt) --tag=CC $(AM_LIBTOOLFLAGS) \\$/;"	m
+libcore_la_OBJECTS	src/Makefile	/^libcore_la_OBJECTS = $(am_libcore_la_OBJECTS)$/;"	m
+libcore_la_SOURCES	src/Makefile	/^libcore_la_SOURCES = core\/ngx_config.h						\\$/;"	m
+libdir	Makefile	/^libdir = ${exec_prefix}\/lib$/;"	m
+libdir	src/Makefile	/^libdir = ${exec_prefix}\/lib$/;"	m
+libexecdir	Makefile	/^libexecdir = ${exec_prefix}\/libexec$/;"	m
+libexecdir	src/Makefile	/^libexecdir = ${exec_prefix}\/libexec$/;"	m
+libunix_la_CFLAGS	src/Makefile	/^libunix_la_CFLAGS = -I$(top_srcdir)\/src\/core -I$(top_srcdir)\/src\/os\/unix$/;"	m
+libunix_la_DEPENDENCIES	src/Makefile	/^libunix_la_DEPENDENCIES = libcore.la$/;"	m
+libunix_la_LIBADD	src/Makefile	/^libunix_la_LIBADD = libcore.la$/;"	m
+libunix_la_LINK	src/Makefile	/^libunix_la_LINK = $(LIBTOOL) $(AM_V_lt) --tag=CC $(AM_LIBTOOLFLAGS) \\$/;"	m
+libunix_la_OBJECTS	src/Makefile	/^libunix_la_OBJECTS = $(am_libunix_la_OBJECTS)$/;"	m
+libunix_la_SOURCES	src/Makefile	/^libunix_la_SOURCES = os\/unix\/ngx_errno.c						\\$/;"	m
+localedir	Makefile	/^localedir = ${datarootdir}\/locale$/;"	m
+localedir	src/Makefile	/^localedir = ${datarootdir}\/locale$/;"	m
+localstatedir	Makefile	/^localstatedir = ${prefix}\/var$/;"	m
+localstatedir	src/Makefile	/^localstatedir = ${prefix}\/var$/;"	m
+log_level	src/core/ngx_log.h	/^	ngx_uint_t           log_level;$/;"	m	struct:ngx_log_s
+main	src/core/nginx.c	/^main (int argc, char *const *argv)$/;"	f
+mandir	Makefile	/^mandir = ${datarootdir}\/man$/;"	m
+mandir	src/Makefile	/^mandir = ${datarootdir}\/man$/;"	m
+mkdir_p	Makefile	/^mkdir_p = \/usr\/bin\/mkdir -p$/;"	m
+mkdir_p	src/Makefile	/^mkdir_p = \/usr\/bin\/mkdir -p$/;"	m
+mkinstalldirs	Makefile	/^mkinstalldirs = $(install_sh) -d$/;"	m
+mkinstalldirs	src/Makefile	/^mkinstalldirs = $(install_sh) -d$/;"	m
+months	src/core/ngx_times.c	/^static char  *months[] = { "Jan", "Feb", "Mar", "Apr", "May", "Jun",$/;"	v	file:
+msec	src/core/ngx_times.h	/^	ngx_uint_t  msec;$/;"	m	struct:__anon3
+name	src/core/ngx_conf_file.h	/^    ngx_str_t             name;$/;"	m	struct:ngx_open_file_s
+nginx_CFLAGS	src/Makefile	/^nginx_CFLAGS = -I$(top_srcdir)\/src\/core -I$(top_srcdir)\/src\/os\/unix$/;"	m
+nginx_DEPENDENCIES	src/Makefile	/^nginx_DEPENDENCIES = libcore.la libunix.la$/;"	m
+nginx_LDADD	src/Makefile	/^nginx_LDADD = libcore.la libunix.la$/;"	m
+nginx_LINK	src/Makefile	/^nginx_LINK = $(LIBTOOL) $(AM_V_lt) --tag=CC $(AM_LIBTOOLFLAGS) \\$/;"	m
+nginx_OBJECTS	src/Makefile	/^nginx_OBJECTS = $(am_nginx_OBJECTS)$/;"	m
+nginx_SOURCES	src/Makefile	/^nginx_SOURCES = core\/nginx.c$/;"	m
+nginx_version	src/core/nginx.h	5;"	d
+ngx_abs	src/core/ngx_core.h	15;"	d
+ngx_atomic_cmp_set	src/os/unix/ngx_atomic.h	13;"	d
+ngx_atomic_int_t	src/os/unix/ngx_atomic.h	/^typedef long						ngx_atomic_int_t;$/;"	t
+ngx_atomic_t	src/os/unix/ngx_atomic.h	/^typedef volatile ngx_atomic_uint_t  ngx_atomic_t;$/;"	t
+ngx_atomic_uint_t	src/os/unix/ngx_atomic.h	/^typedef uint32_t                    ngx_atomic_uint_t;$/;"	t
+ngx_cached_err_log_time	src/core/ngx_times.c	/^volatile ngx_str_t				ngx_cached_err_log_time;$/;"	v
+ngx_cached_http_log_iso8601	src/core/ngx_times.c	/^volatile ngx_str_t				ngx_cached_http_log_iso8601;$/;"	v
+ngx_cached_http_log_time	src/core/ngx_times.c	/^volatile ngx_str_t				ngx_cached_http_log_time;$/;"	v
+ngx_cached_http_time	src/core/ngx_times.c	/^volatile ngx_str_t				ngx_cached_http_time;$/;"	v
+ngx_cached_time	src/core/ngx_times.c	/^volatile ngx_time_t				*ngx_cached_time;$/;"	v
+ngx_cdecl	src/core/ngx_config.h	15;"	d
+ngx_conf_file	src/core/nginx.c	/^static u_char      *ngx_conf_file;			\/\/option:  -c <configure file>$/;"	v	file:
+ngx_conf_params	src/core/nginx.c	/^static u_char      *ngx_conf_params;		\/\/option:  -g <global device>$/;"	v	file:
+ngx_cpymem	src/core/ngx_string.h	39;"	d
+ngx_cpystrn	src/core/ngx_string.c	/^ngx_cpystrn(u_char *dst, u_char *src, size_t n)$/;"	f
+ngx_current_msec	src/core/ngx_times.c	/^volatile ngx_msec_t				ngx_current_msec;		\/\/ current msec (int)$/;"	v
+ngx_err_t	src/os/unix/ngx_errno.h	/^typedef int				ngx_err_t;$/;"	t
+ngx_errno	src/os/unix/ngx_errno.h	9;"	d
+ngx_fd_t	src/core/ngx_core.h	/^typedef int                      ngx_fd_t;$/;"	t
+ngx_flag_t	src/core/ngx_config.h	/^typedef intptr_t        ngx_flag_t;$/;"	t
+ngx_free	src/os/unix/ngx_alloc.h	7;"	d
+ngx_get_options	src/core/nginx.c	/^ngx_get_options(int argc, char *const *argv)$/;"	f	file:
+ngx_getpid	src/os/unix/ngx_process.h	9;"	d
+ngx_gettimeofday	src/os/unix/ngx_time.h	31;"	d
+ngx_gmtime	src/core/ngx_times.c	/^ngx_gmtime(time_t t, ngx_tm_t *tp)$/;"	f
+ngx_inline	src/core/ngx_config.h	38;"	d
+ngx_int_t	src/core/ngx_config.h	/^typedef intptr_t        ngx_int_t;$/;"	t
+ngx_linefeed	src/os/unix/ngx_files.h	41;"	d
+ngx_localtime	src/os/unix/ngx_time.c	/^ngx_localtime(time_t s, ngx_tm_t *tm)$/;"	f
+ngx_log	src/core/ngx_log.c	/^static ngx_log_t		ngx_log;$/;"	v	file:
+ngx_log_errno	src/core/ngx_log.c	/^ngx_log_errno(u_char *buf, u_char *last, ngx_err_t err)$/;"	f
+ngx_log_file	src/core/ngx_log.c	/^static ngx_open_file_t	ngx_log_file;$/;"	v	file:
+ngx_log_handler_pt	src/core/ngx_log.h	/^typedef u_char *(*ngx_log_handler_pt) (ngx_log_t *log, u_char *buf, size_t len);$/;"	t
+ngx_log_init	src/core/ngx_log.c	/^ngx_log_init (u_char *prefix)$/;"	f
+ngx_log_s	src/core/ngx_log.h	/^struct ngx_log_s {$/;"	s
+ngx_log_stderr	src/core/ngx_log.c	/^ngx_log_stderr(ngx_err_t err, const char *fmt, ...)$/;"	f
+ngx_log_t	src/core/ngx_core.h	/^typedef struct ngx_log_s         ngx_log_t;$/;"	t	typeref:struct:ngx_log_s
+ngx_max	src/core/ngx_core.h	16;"	d
+ngx_memcpy	src/core/ngx_string.h	38;"	d
+ngx_memory_barrier	src/os/unix/ngx_atomic.h	17;"	d
+ngx_min	src/core/ngx_core.h	13;"	d
+ngx_min	src/core/ngx_core.h	17;"	d
+ngx_msec_int_t	src/os/unix/ngx_time.h	/^typedef ngx_rbtree_key_int_t  ngx_msec_int_t;$/;"	t
+ngx_msec_t	src/os/unix/ngx_time.h	/^typedef ngx_rbtree_key_t      ngx_msec_t;$/;"	t
+ngx_open_file	src/os/unix/ngx_files.h	31;"	d
+ngx_open_file_n	src/os/unix/ngx_files.h	25;"	d
+ngx_open_file_s	src/core/ngx_conf_file.h	/^struct ngx_open_file_s {$/;"	s
+ngx_open_file_t	src/core/ngx_core.h	/^typedef struct ngx_open_file_s   ngx_open_file_t;$/;"	t	typeref:struct:ngx_open_file_s
+ngx_path_separator	src/os/unix/ngx_files.h	45;"	d
+ngx_pid	src/os/unix/ngx_process_cycle.c	/^ngx_pid_t	  ngx_pid;$/;"	v
+ngx_pid_t	src/os/unix/ngx_process.h	/^typedef pid_t       ngx_pid_t;$/;"	t
+ngx_prefix	src/core/nginx.c	/^static u_char      *ngx_prefix;				\/\/option:  -p <prefix_path>$/;"	v	file:
+ngx_process	src/os/unix/ngx_process_cycle.c	/^ngx_uint_t    ngx_process;$/;"	v
+ngx_quiet_mode	src/core/ngx_cycle.c	/^ngx_uint_t					ngx_quiet_mode;$/;"	v
+ngx_rbtree_key_int_t	src/core/ngx_rbtree.h	/^typedef ngx_int_t   ngx_rbtree_key_int_t;$/;"	t
+ngx_rbtree_key_t	src/core/ngx_rbtree.h	/^typedef ngx_uint_t  ngx_rbtree_key_t;$/;"	t
+ngx_show_configure	src/core/nginx.c	/^static ngx_uint_t   ngx_show_configure;		\/\/option:  show configure info$/;"	v	file:
+ngx_show_help	src/core/nginx.c	/^static ngx_uint_t   ngx_show_help;			\/\/option:  show help info$/;"	v	file:
+ngx_show_version	src/core/nginx.c	/^static ngx_uint_t   ngx_show_version;		\/\/option:  show version$/;"	v	file:
+ngx_signal	src/core/nginx.c	/^static char        *ngx_signal;				\/\/option:  -s <signal>$/;"	v	file:
+ngx_slprintf	src/core/ngx_string.c	/^ngx_slprintf(u_char *buf, u_char *last, const char *fmt, ...)$/;"	f
+ngx_sprintf	src/core/ngx_string.c	/^ngx_sprintf(u_char *buf, const char *fmt, ...)$/;"	f
+ngx_sprintf_num	src/core/ngx_string.c	/^ngx_sprintf_num(u_char *buf, u_char *last, uint64_t ui64, u_char zero,$/;"	f	file:
+ngx_stderr	src/os/unix/ngx_files.h	48;"	d
+ngx_str_t	src/core/ngx_string.h	/^}ngx_str_t;$/;"	t	typeref:struct:__anon1
+ngx_strcmp	src/core/ngx_string.h	31;"	d
+ngx_strerror	src/os/unix/ngx_errno.c	/^ngx_strerror(ngx_err_t err, u_char *errstr, size_t size)$/;"	f
+ngx_strerror_init	src/os/unix/ngx_errno.c	/^ngx_int_t ngx_strerror_init (void)$/;"	f
+ngx_string	src/os/unix/ngx_errno.h	12;"	d
+ngx_strlen	src/core/ngx_string.h	29;"	d
+ngx_strncmp	src/core/ngx_string.h	33;"	d
+ngx_sys_errlist	src/os/unix/ngx_errno.c	/^static ngx_str_t  *ngx_sys_errlist;$/;"	v	file:
+ngx_test_config	src/core/ngx_cycle.c	/^ngx_uint_t					ngx_test_config;$/;"	v
+ngx_time_init	src/core/ngx_times.c	/^void ngx_time_init (void)$/;"	f
+ngx_time_lock	src/core/ngx_times.c	/^static ngx_atomic_t				ngx_time_lock;$/;"	v	file:
+ngx_time_t	src/core/ngx_times.h	/^} ngx_time_t;$/;"	t	typeref:struct:__anon3
+ngx_time_update	src/core/ngx_times.c	/^ngx_time_update (void)$/;"	f
+ngx_timezone	src/os/unix/ngx_time.h	35;"	d
+ngx_timezone	src/os/unix/ngx_time.h	39;"	d
+ngx_tm_hour	src/os/unix/ngx_time.h	15;"	d
+ngx_tm_hour_t	src/os/unix/ngx_time.h	25;"	d
+ngx_tm_isdst	src/os/unix/ngx_time.h	20;"	d
+ngx_tm_mday	src/os/unix/ngx_time.h	16;"	d
+ngx_tm_mday_t	src/os/unix/ngx_time.h	26;"	d
+ngx_tm_min	src/os/unix/ngx_time.h	14;"	d
+ngx_tm_min_t	src/os/unix/ngx_time.h	24;"	d
+ngx_tm_mon	src/os/unix/ngx_time.h	17;"	d
+ngx_tm_mon_t	src/os/unix/ngx_time.h	27;"	d
+ngx_tm_sec	src/os/unix/ngx_time.h	13;"	d
+ngx_tm_sec_t	src/os/unix/ngx_time.h	23;"	d
+ngx_tm_t	src/os/unix/ngx_time.h	/^typedef struct tm             ngx_tm_t;$/;"	t	typeref:struct:tm
+ngx_tm_wday	src/os/unix/ngx_time.h	19;"	d
+ngx_tm_wday_t	src/os/unix/ngx_time.h	29;"	d
+ngx_tm_year	src/os/unix/ngx_time.h	18;"	d
+ngx_tm_year_t	src/os/unix/ngx_time.h	28;"	d
+ngx_trylock	src/os/unix/ngx_atomic.h	25;"	d
+ngx_uint_t	src/core/ngx_config.h	/^typedef uintptr_t       ngx_uint_t;$/;"	t
+ngx_unknown_error	src/os/unix/ngx_errno.c	/^static ngx_str_t  ngx_unknown_error = ngx_string("Unknown error");$/;"	v	file:
+ngx_unlock	src/os/unix/ngx_atomic.h	27;"	d
+ngx_variable_value_t	src/core/ngx_string.h	/^} ngx_variable_value_t;$/;"	t	typeref:struct:__anon2
+ngx_vslprintf	src/core/ngx_string.c	/^ngx_vslprintf(u_char *buf, u_char *last, const char *fmt, va_list args)$/;"	f
+ngx_write_console	src/os/unix/ngx_files.h	40;"	d
+ngx_write_fd	src/os/unix/ngx_files.h	/^ngx_write_fd(ngx_fd_t fd, void *buf, size_t n)$/;"	f
+ngx_write_stderr	src/core/ngx_log.h	/^ngx_write_stderr(char *text)$/;"	f
+no_cacheable	src/core/ngx_string.h	/^	unsigned    no_cacheable:1;$/;"	m	struct:__anon2
+noinst_LTLIBRARIES	src/Makefile	/^noinst_LTLIBRARIES = libcore.la libunix.la$/;"	m
+not_found	src/core/ngx_string.h	/^	unsigned    not_found:1;$/;"	m	struct:__anon2
+oldincludedir	Makefile	/^oldincludedir = \/usr\/include$/;"	m
+oldincludedir	src/Makefile	/^oldincludedir = \/usr\/include$/;"	m
+pdfdir	Makefile	/^pdfdir = ${docdir}$/;"	m
+pdfdir	src/Makefile	/^pdfdir = ${docdir}$/;"	m
+pkgdatadir	Makefile	/^pkgdatadir = $(datadir)\/mynginx$/;"	m
+pkgdatadir	src/Makefile	/^pkgdatadir = $(datadir)\/mynginx$/;"	m
+pkgincludedir	Makefile	/^pkgincludedir = $(includedir)\/mynginx$/;"	m
+pkgincludedir	src/Makefile	/^pkgincludedir = $(includedir)\/mynginx$/;"	m
+pkglibdir	Makefile	/^pkglibdir = $(libdir)\/mynginx$/;"	m
+pkglibdir	src/Makefile	/^pkglibdir = $(libdir)\/mynginx$/;"	m
+pkglibexecdir	Makefile	/^pkglibexecdir = $(libexecdir)\/mynginx$/;"	m
+pkglibexecdir	src/Makefile	/^pkglibexecdir = $(libexecdir)\/mynginx$/;"	m
+prefix	Makefile	/^prefix = \/usr\/local$/;"	m
+prefix	src/Makefile	/^prefix = \/usr\/local$/;"	m
+program_transform_name	Makefile	/^program_transform_name = s,x,x,$/;"	m
+program_transform_name	src/Makefile	/^program_transform_name = s,x,x,$/;"	m
+prototypes	configure	/^   function prototypes and stuff, but not '\\xHH' hex character constants.$/;"	f
+psdir	Makefile	/^psdir = ${docdir}$/;"	m
+psdir	src/Makefile	/^psdir = ${docdir}$/;"	m
+sbindir	Makefile	/^sbindir = ${exec_prefix}\/sbin$/;"	m
+sbindir	src/Makefile	/^sbindir = ${exec_prefix}\/sbin$/;"	m
+sec	src/core/ngx_times.h	/^	time_t      sec;$/;"	m	struct:__anon3
+sharedstatedir	Makefile	/^sharedstatedir = ${prefix}\/com$/;"	m
+sharedstatedir	src/Makefile	/^sharedstatedir = ${prefix}\/com$/;"	m
+slot	src/core/ngx_times.c	/^static ngx_uint_t				slot;$/;"	v	file:
+srcdir	Makefile	/^srcdir = .$/;"	m
+srcdir	src/Makefile	/^srcdir = .$/;"	m
+subdir	Makefile	/^subdir = .$/;"	m
+subdir	src/Makefile	/^subdir = src$/;"	m
+sysconfdir	Makefile	/^sysconfdir = ${prefix}\/etc$/;"	m
+sysconfdir	src/Makefile	/^sysconfdir = ${prefix}\/etc$/;"	m
+tardir	Makefile	/^	tardir=$(distdir) && $(am__tar) | BZIP2=$${BZIP2--9} bzip2 -c >$(distdir).tar.bz2$/;"	m
+tardir	Makefile	/^	tardir=$(distdir) && $(am__tar) | GZIP=$(GZIP_ENV) gzip -c >$(distdir).tar.gz$/;"	m
+tardir	Makefile	/^	tardir=$(distdir) && $(am__tar) | XZ_OPT=$${XZ_OPT--e} xz -c >$(distdir).tar.xz$/;"	m
+tardir	Makefile	/^	tardir=$(distdir) && $(am__tar) | compress -c >$(distdir).tar.Z$/;"	m
+tardir	Makefile	/^	tardir=$(distdir) && $(am__tar) | lzip -c $${LZIP_OPT--9} >$(distdir).tar.lz$/;"	m
+tardir	Makefile	/^	tardir=$(distdir) && $(am__tar) | lzma -9 -c >$(distdir).tar.lzma$/;"	m
+target_alias	Makefile	/^target_alias = $/;"	m
+target_alias	src/Makefile	/^target_alias = $/;"	m
+test_print_time	src/core/ngx_times.c	/^test_print_time (void)$/;"	f
+top_build_prefix	Makefile	/^top_build_prefix = $/;"	m
+top_build_prefix	src/Makefile	/^top_build_prefix = ..\/$/;"	m
+top_builddir	Makefile	/^top_builddir = .$/;"	m
+top_builddir	src/Makefile	/^top_builddir = ..$/;"	m
+top_distdir	Makefile	/^top_distdir = $(distdir)$/;"	m
+top_srcdir	Makefile	/^top_srcdir = .$/;"	m
+top_srcdir	src/Makefile	/^top_srcdir = ..$/;"	m
+transform	Makefile	/^transform = $(program_transform_name)$/;"	m
+transform	src/Makefile	/^transform = $(program_transform_name)$/;"	m
+valid	src/core/ngx_string.h	/^	unsigned    valid:1;$/;"	m	struct:__anon2
+week	src/core/ngx_times.c	/^static char  *week[] = { "Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat" };$/;"	v	file:
